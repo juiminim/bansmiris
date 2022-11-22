@@ -1,6 +1,6 @@
 import sys,math
 if __name__=='__main__':
- u=math.cos(4.16)
- r=math.tan(0.89)
- y=2*u+r
+ u=math.cos(2.81)
+ r=math.tan(0.46)
+ y=9*u+r
  print( y)
